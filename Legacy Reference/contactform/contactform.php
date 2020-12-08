@@ -8,6 +8,6 @@ $recipient = "jebruner1690@gmail.com";
 $subject = "$name sent you a message";
 $mailheader = "From: jebruner@wccnet.edu \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-header("Location:../contact.html");
+header("Location:../index.html");
 //echo "Thank You!" . " -" . "<a href='contact.html' style='text-decoration:none;color:#4c4c4c;'> Return Home</a>";
 ?>
