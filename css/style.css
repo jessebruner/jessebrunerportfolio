@@ -1146,6 +1146,9 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   .fh5co-nav-toggle {
     opacity: 1;
     visibility: visible;
+    background-color:#fff;
+    width:100vw;
+
   }
 }
 
