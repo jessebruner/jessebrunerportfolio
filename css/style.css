@@ -82,7 +82,7 @@ figure {
   bottom: 0;
   top: 0;
   left: 0;
-  overflow-y: scroll;
+  overflow-y: none;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -93,6 +93,7 @@ figure {
 @media screen and (max-width: 1200px) {
   #fh5co-aside {
     width: 30%;
+      overflow-y: scroll;
   }
 }
 @media screen and (max-width: 768px) {
