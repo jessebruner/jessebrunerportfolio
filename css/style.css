@@ -234,6 +234,7 @@ text-decoration-color: #444054;
   #fh5co-main {
     width: 70%;
   }
+
 }
 @media screen and (max-width: 768px) {
   #fh5co-main {
@@ -658,6 +659,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   .fh5co-feature .fh5co-icon i {
     font-size: 40px;
   }
+
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
   color: #444054;
@@ -1193,5 +1195,6 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .js .animate-box {
   opacity: 0;
 }
+
 
 /*# sourceMappingURL=style.css.map */
